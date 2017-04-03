@@ -21,16 +21,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 -->
 
-# ConversationService
-Sample conversation service that aimed to work with [MapService](https://github.com/hulop/MapService) and [NavCogIOSv3](https://github.com/hulop/NavCogIOSv3).
-If you want to support more complicated conversations, please check [ConversationServiceWatson](https://github.com/hulop/ConversationSampleWatson) that uses a [Watson Conversation Service](https://www.ibm.com/watson/developercloud/conversation.html).
+# Open Source Files
 
-## Prerequisites
-- [Apache Wink version 1.4.0](https://wink.apache.org/) (Apache License v2.0)
+The following files/directories should be placed here.
 
-----
-## About
-[About HULOP](https://github.com/hulop/00Readme)
-
-## License
-[MIT](http://opensource.org/licenses/MIT)
+- wink-1.4.jar
